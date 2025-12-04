@@ -73,6 +73,25 @@ Narawit Sowan 663020283-2
 องค์กรใหญ่ใช้ Data Mining ในระบบค้นหา แนะนำสินค้า วิเคราะห์ผู้ใช้ ตรวจสอบความผิดปกติ ฯลฯ
 
 ---
+**Course Work and Grading**
+| รายละเอียด | คะแนน |
+| :--- | :--- |
+| Midterm (data prepocessing ปฏิบัติ (เดี่ยว))| 25% |
+| Final(ทฤษฎี data mining (เดี่ยว)) | 25% |
+| Project (data prepocessing + data mining (จัดกลุ่มเอง 5-6 คน)) | 20% |
+| Homework (แบ่งกลุ่มใหม่ทุกครั้ง) | 15% |
+| Quiz (เดี่ยว ถามในห้อง) | 10% |
+| GitHub | 5% |
+
+***Final Score = Score * %attendance***
+
+----
+**เอกสารการเรียน**
+| บทที่ | Slides |
+| :--- | :--- |
+| 01 | [Introduction](Chapter%201%20Introduction.pdf) |
+| 02 | [Getting to Know Your Data](Chapter%202%20Getting%20to%20Know%20Your%20Data.pdf) |
+---
 
 ## สรุป
 Data Mining คือกระบวนการดึงความรู้ที่มีประโยชน์จากข้อมูลจำนวนมาก  
