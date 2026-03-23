@@ -167,8 +167,8 @@ Data Mining มีหลายมุมมองพร้อมกัน:
 **เอกสารการเรียน**
 | บทที่ | Slides |
 | :--- | :--- |
-| 01 | [Introduction](Chapter%201%20Introduction.pdf) |
-| 02 | [Getting to Know Your Data](Chapter%202%20Getting%20to%20Know%20Your%20Data.pdf) |
+| 01 | [01Intro.pdf](01Intro.pdf) |
+| 02 | [02Data.pdf](02Data.pdf) |
 ---
 
 ## สรุป
