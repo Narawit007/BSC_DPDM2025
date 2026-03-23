@@ -169,6 +169,8 @@ Data Mining มีหลายมุมมองพร้อมกัน:
 | :--- | :--- |
 | 01 | [01Intro.pdf](01Intro.pdf) |
 | 02 | [02Data.pdf](02Data.pdf) |
+| 08 | [08ClassBasic.pdf](08ClassBasic.pdf) |
+| 10 | [10ClusBasic.pdf](10ClusBasic.pdf) |
 ---
 
 ## สรุป
